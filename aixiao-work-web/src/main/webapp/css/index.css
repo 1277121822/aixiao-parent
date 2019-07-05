@@ -1,0 +1,5 @@
+ .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active, .dropdown-toggle.btn-primary {
+		 color: #0d6fc4;
+		 background-color:#ffff;
+		 border-color:#ffff;/ *设置你想要的颜色* /
+		}

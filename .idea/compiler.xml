@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aixiao-notice-web" />
+        <module name="aixiao-content-service" />
+        <module name="aixiao-manger-service" />
+        <module name="aixiao-work-web" />
+        <module name="aixiao-manager-pojo" />
+        <module name="aixiao-portal-web" />
+        <module name="aixiao-sso-interface" />
+        <module name="aixiao-common" />
+        <module name="aixiao-content-interfaxe" />
+        <module name="aixiao-manger-web" />
+        <module name="aixiao-manager-dao" />
+        <module name="aixiao-classes-web" />
+        <module name="aixiao-manager-interface" />
+        <module name="aixiao-sso-service" />
+        <module name="aixiao-sso-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
